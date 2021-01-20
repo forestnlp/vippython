@@ -21,3 +21,9 @@ class Calculator:
 
     def __init__(self):
         print("init")
+
+
+# print(1)
+if __name__ == '__main__':
+    print("i am a command,now in main ")
+
